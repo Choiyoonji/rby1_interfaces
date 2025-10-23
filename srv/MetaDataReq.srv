@@ -1,0 +1,6 @@
+bool request
+---
+string error_msg
+rby1_interfaces/EEpos left_ee_pos
+rby1_interfaces/EEpos right_ee_pos
+rby1_interfaces/EEpos head_ee_pos

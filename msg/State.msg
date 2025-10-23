@@ -1,0 +1,22 @@
+std_msgs/Float32MultiArray joint_positions
+std_msgs/Float32MultiArray joint_velocities
+std_msgs/Float32MultiArray joint_currents
+std_msgs/Float32MultiArray joint_torques
+
+rby1_interfaces/EEpos left_ee_pos
+rby1_interfaces/EEpos right_ee_pos
+rby1_interfaces/EEpos torso_ee_pos
+
+rby1_interfaces/FTsensor left_ft_sensor
+rby1_interfaces/FTsensor right_ft_sensor
+
+std_msgs/Float32MultiArray center_of_mass
+
+float32 mobile_angular_velocity
+float32 mobile_linear_velocity
+
+bool is_initialized
+bool is_stopped
+bool is_torso_following
+bool is_left_following
+bool is_right_following

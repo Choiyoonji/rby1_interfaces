@@ -1,0 +1,10 @@
+bool initialize
+bool check_pose
+rby1_interfaces/EEpos left_ready_pos
+rby1_interfaces/EEpos right_ready_pos
+rby1_interfaces/EEpos head_ready_pos
+---
+bool success
+bool check1
+bool check2
+bool check3
