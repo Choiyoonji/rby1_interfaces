@@ -1,3 +1,5 @@
+float32 timestamp
+
 std_msgs/Float32MultiArray joint_positions
 std_msgs/Float32MultiArray joint_velocities
 std_msgs/Float32MultiArray joint_currents
