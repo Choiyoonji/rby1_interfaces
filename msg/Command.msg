@@ -3,7 +3,10 @@ string control_mode
 
 rby1_interfaces/EEpos desired_left_ee_pos
 rby1_interfaces/EEpos desired_right_ee_pos
-rby1_interfaces/EEpos desired_head_ee_pos
+rby1_interfaces/EEpos desired_torso_ee_pos
+
+float32 desired_right_gripper_pos
+float32 desired_left_gripper_pos
 
 std_msgs/Float32MultiArray desired_joint_positions
 

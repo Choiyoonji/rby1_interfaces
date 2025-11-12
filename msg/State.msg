@@ -9,6 +9,9 @@ rby1_interfaces/EEpos left_ee_pos
 rby1_interfaces/EEpos right_ee_pos
 rby1_interfaces/EEpos torso_ee_pos
 
+float32 right_gripper_pos
+float32 left_gripper_pos
+
 rby1_interfaces/FTsensor left_ft_sensor
 rby1_interfaces/FTsensor right_ft_sensor
 
