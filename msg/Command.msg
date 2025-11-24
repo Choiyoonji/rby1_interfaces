@@ -1,6 +1,10 @@
 bool is_active
 string control_mode
 
+# for master arm control
+bool left_btn
+bool right_btn
+
 rby1_interfaces/EEpos desired_left_ee_pos
 rby1_interfaces/EEpos desired_right_ee_pos
 rby1_interfaces/EEpos desired_torso_ee_pos
