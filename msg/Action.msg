@@ -1,0 +1,9 @@
+string mode
+bool cancel_last_action
+
+std_msgs/Float32MultiArray dtheta
+std_msgs/Float32MultiArray dpos
+std_msgs/Float32MultiArray drot
+
+float32 right_gripper_pos
+float32 left_gripper_pos

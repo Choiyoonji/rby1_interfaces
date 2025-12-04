@@ -15,6 +15,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/FTsensor.msg"
   "msg/State.msg"
   "msg/Command.msg"
+  "msg/Action.msg"
   "srv/MetaDataReq.srv"
   "srv/MetaInitialReq.srv"
   DEPENDENCIES std_msgs
