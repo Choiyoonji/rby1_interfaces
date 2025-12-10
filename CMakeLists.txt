@@ -13,7 +13,9 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/EEpos.msg"
   "msg/FTsensor.msg"
-  "msg/StateHand.msg"
+  "msg/HandData.msg"
+  "msg/MetaHandData.msg"
+  "msg/StateRBY1.msg"
   "msg/StateHand.msg"
   "msg/CommandRBY1.msg"
   "msg/CommandHand.msg"
