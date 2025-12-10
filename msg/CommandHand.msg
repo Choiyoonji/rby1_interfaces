@@ -1,2 +1,8 @@
 string hand
 float32 opening
+std_msgs/Float32MultiArray p_EE_l
+std_msgs/Float32MultiArray p_lnk_l
+std_msgs/Float32MultiArray r_lnk_l
+std_msgs/Float32MultiArray p_EE_r
+std_msgs/Float32MultiArray p_lnk_r
+std_msgs/Float32MultiArray r_lnk_r
