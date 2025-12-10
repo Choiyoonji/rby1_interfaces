@@ -7,3 +7,6 @@ rby1_interfaces/EEpos torso_ee_pos
 rby1_interfaces/EEpos head_ee_pos
 float32 left_gripper_pos
 float32 right_gripper_pos
+
+rby1_interfaces/MetaHandData left_hand
+rby1_interfaces/MetaHandData right_hand

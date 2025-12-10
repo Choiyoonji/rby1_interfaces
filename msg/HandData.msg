@@ -1,0 +1,6 @@
+std_msgs/Float32MultiArray act_angle
+std_msgs/Float32MultiArray act_angle_force
+std_msgs/Float32MultiArray act_norm_force
+std_msgs/Float32MultiArray act_tang_force
+std_msgs/Float32MultiArray act_temp
+std_msgs/Float32MultiArray act_cur
