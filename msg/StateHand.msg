@@ -1,0 +1,4 @@
+float32 timestamp
+
+rby1_interfaces/HandData left_hand
+rby1_interfaces/HandData right_hand
