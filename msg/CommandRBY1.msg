@@ -1,3 +1,5 @@
+float32 timestamp
+
 bool is_active
 string control_mode
 
