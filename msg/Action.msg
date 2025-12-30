@@ -7,3 +7,6 @@ std_msgs/Float32MultiArray drot
 
 float32 right_gripper_pos
 float32 left_gripper_pos
+
+rby1_interfaces/CommandHand left_hand
+rby1_interfaces/CommandHand right_hand
